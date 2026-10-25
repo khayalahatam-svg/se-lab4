@@ -1,0 +1,4 @@
+# Test 4: SINGLE: alternation, secondary fires second
+GT4500,5,0,5,1.0
+TORPEDO,SINGLE   # primary
+TORPEDO,SINGLE   # secondary

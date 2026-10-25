@@ -1,0 +1,4 @@
+# Test 18: ALL: stores run out of torpedoes
+GT4500,1,0,1,0
+TORPEDO,ALL   # both fire
+TORPEDO,ALL   # both empty

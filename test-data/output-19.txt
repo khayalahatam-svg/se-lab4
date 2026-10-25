@@ -1,0 +1,5 @@
+SUCCESS   # <- GT4500
+SUCCESS   # <- primary
+SUCCESS   # <- 1+2 left
+SUCCESS   # <- only secondary left
+FAIL   # <- both empty

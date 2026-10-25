@@ -1,0 +1,6 @@
+# Test 19: Mixed: SINGLE followed by ALL
+GT4500,2,0,2,0
+TORPEDO,SINGLE   # primary
+TORPEDO,ALL   # 1+2 left
+TORPEDO,ALL   # only secondary left
+TORPEDO,ALL   # both empty

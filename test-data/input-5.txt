@@ -1,0 +1,5 @@
+# Test 5: SINGLE: alternation over several shots
+GT4500,5,1.0,5,0
+TORPEDO,SINGLE   # primary
+TORPEDO,SINGLE   # secondary
+TORPEDO,SINGLE   # primary
